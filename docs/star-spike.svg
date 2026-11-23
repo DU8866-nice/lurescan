@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 418" width="820" height="418" role="img" aria-labelledby="t d">
+<title id="t">The most-starred GitHub repos created 17–22 Nov 2026</title>
+<desc id="d">Histogram of star counts for the 398 most-starred repositories created 17–22 November 2026. 372 malware lures sit between 334 and 368 stars; the data is in data/2026-11-23/top-new-repos.tsv.</desc>
+<style>
+  .bg{fill:#fcfcfb} .t1{fill:#0b0b0b} .t2{fill:#52514e} .t3{fill:#7a7974} .grid{stroke:#e8e7e2} .axis{stroke:#bdbcb6}
+  .s1{fill:#2a78d6} .s2{fill:#eb6834} .s3{fill:#1baf7a} .s0{fill:#9a998f} .gap{stroke:#fcfcfb}
+  text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#1a1a19} .t1{fill:#f0efec} .t2{fill:#c3c2b7} .t3{fill:#94938b} .grid{stroke:#2e2e2c} .axis{stroke:#4a4a47}
+    .s1{fill:#3987e5} .s2{fill:#d95926} .s3{fill:#199e70} .s0{fill:#77766f} .gap{stroke:#1a1a19}
+  }
+</style>
+<rect class="bg" x="0" y="0" width="820" height="418" rx="8"/>
+<text class="t1" x="24" y="34" font-size="17" font-weight="600">The most-starred GitHub repos created 17–22 Nov 2026</text>
+<text class="t2" x="24" y="57" font-size="13">398 repos, each with 334+ stars on 23 Nov. 373 are malware lures, and 372 of those were created on 21 Nov.</text>
+<rect class="s1" x="24" y="78" width="12" height="12" rx="2"/>
+<text class="t2" x="42" y="88.5" font-size="12.5">ClickFix page (218)</text>
+<rect class="s2" x="195.1" y="78" width="12" height="12" rx="2"/>
+<text class="t2" x="213.1" y="88.5" font-size="12.5">Cloaked page + fake commits (148)</text>
+<rect class="s3" x="462.80000000000007" y="78" width="12" height="12" rx="2"/>
+<text class="t2" x="480.80000000000007" y="88.5" font-size="12.5">Decoy code (6)</text>
+<rect class="s0" x="599.4000000000001" y="78" width="12" height="12" rx="2"/>
+<text class="t2" x="617.4000000000001" y="88.5" font-size="12.5">Real project (2)</text>
+<line class="axis" x1="64" x2="796" y1="330.0" y2="330.0" stroke-width="1"/>
+<text class="t3" x="56" y="334.0" font-size="11" text-anchor="end">0</text>
+<line class="grid" x1="64" x2="796" y1="293.3" y2="293.3" stroke-width="1"/>
+<text class="t3" x="56" y="297.3" font-size="11" text-anchor="end">10</text>
+<line class="grid" x1="64" x2="796" y1="256.5" y2="256.5" stroke-width="1"/>
+<text class="t3" x="56" y="260.5" font-size="11" text-anchor="end">20</text>
+<line class="grid" x1="64" x2="796" y1="219.8" y2="219.8" stroke-width="1"/>
+<text class="t3" x="56" y="223.8" font-size="11" text-anchor="end">30</text>
+<line class="grid" x1="64" x2="796" y1="183.1" y2="183.1" stroke-width="1"/>
+<text class="t3" x="56" y="187.1" font-size="11" text-anchor="end">40</text>
+<line class="grid" x1="64" x2="796" y1="146.4" y2="146.4" stroke-width="1"/>
+<text class="t3" x="56" y="150.4" font-size="11" text-anchor="end">50</text>
+<text class="t3" x="24" y="116" font-size="11">repos</text>
+<path class="s2" d="M66.0,330.0 V304.6 Q66.0,300.6 70.0,300.6 H78.9 Q82.9,300.6 82.9,304.6 V330.0 Z"><title>334 stars: 8 cloaked page + fake commits</title></path>
+<path class="s2" d="M86.9,330.0 V209.1 Q86.9,205.1 90.9,205.1 H99.8 Q103.8,205.1 103.8,209.1 V330.0 Z"><title>335 stars: 34 cloaked page + fake commits</title></path>
+<text class="t3" x="95.4" y="347" font-size="11" text-anchor="middle">335</text>
+<path class="s2" d="M107.8,330.0 V143.0 Q107.8,139.0 111.8,139.0 H120.7 Q124.7,139.0 124.7,143.0 V330.0 Z"><title>336 stars: 52 cloaked page + fake commits</title></path>
+<rect class="s1" x="128.7" y="324.7" width="16.9" height="5.3"><title>337 stars: 2 clickfix page</title></rect>
+<rect class="s2" x="128.7" y="210.8" width="16.9" height="111.9"><title>337 stars: 31 cloaked page + fake commits</title></rect>
+<path class="s3" d="M128.7,208.8 V207.0 Q128.7,205.1 130.6,205.1 H143.8 Q145.7,205.1 145.7,207.0 V208.8 Z"><title>337 stars: 1 decoy code</title></path>
+<path class="s2" d="M149.7,330.0 V286.3 Q149.7,282.3 153.7,282.3 H162.6 Q166.6,282.3 166.6,286.3 V330.0 Z"><title>338 stars: 13 cloaked page + fake commits</title></path>
+<rect class="s2" x="170.6" y="313.6" width="16.9" height="16.4"><title>339 stars: 5 cloaked page + fake commits</title></rect>
+<path class="s3" d="M170.6,311.6 V308.0 Q170.6,304.3 174.2,304.3 H183.8 Q187.5,304.3 187.5,308.0 V311.6 Z"><title>339 stars: 2 decoy code</title></path>
+<rect class="s1" x="191.5" y="328.3" width="16.9" height="1.7"><title>340 stars: 1 clickfix page</title></rect>
+<rect class="s2" x="191.5" y="310.0" width="16.9" height="16.4"><title>340 stars: 5 cloaked page + fake commits</title></rect>
+<path class="s3" d="M191.5,308.0 V306.1 Q191.5,304.3 193.3,304.3 H206.6 Q208.4,304.3 208.4,306.1 V308.0 Z"><title>340 stars: 1 decoy code</title></path>
+<text class="t3" x="199.9" y="347" font-size="11" text-anchor="middle">340</text>
+<path class="s1" d="M212.4,330.0 V323.0 Q212.4,319.0 216.4,319.0 H225.3 Q229.3,319.0 229.3,323.0 V330.0 Z"><title>341 stars: 3 clickfix page</title></path>
+<rect class="s1" x="233.3" y="324.7" width="16.9" height="5.3"><title>342 stars: 2 clickfix page</title></rect>
+<path class="s3" d="M233.3,322.7 V320.8 Q233.3,319.0 235.2,319.0 H248.4 Q250.2,319.0 250.2,320.8 V322.7 Z"><title>342 stars: 1 decoy code</title></path>
+<path class="s1" d="M254.2,330.0 V328.2 Q254.2,326.3 256.1,326.3 H269.3 Q271.1,326.3 271.1,328.2 V330.0 Z"><title>343 stars: 1 clickfix page</title></path>
+<path class="s1" d="M275.1,330.0 V319.3 Q275.1,315.3 279.1,315.3 H288.1 Q292.1,315.3 292.1,319.3 V330.0 Z"><title>344 stars: 4 clickfix page</title></path>
+<path class="s1" d="M296.1,330.0 V312.0 Q296.1,308.0 300.1,308.0 H309.0 Q313.0,308.0 313.0,312.0 V330.0 Z"><title>345 stars: 6 clickfix page</title></path>
+<text class="t3" x="304.5" y="347" font-size="11" text-anchor="middle">345</text>
+<path class="s1" d="M317.0,330.0 V319.3 Q317.0,315.3 321.0,315.3 H329.9 Q333.9,315.3 333.9,319.3 V330.0 Z"><title>346 stars: 4 clickfix page</title></path>
+<path class="s1" d="M337.9,330.0 V297.3 Q337.9,293.3 341.9,293.3 H350.8 Q354.8,293.3 354.8,297.3 V330.0 Z"><title>347 stars: 10 clickfix page</title></path>
+<path class="s1" d="M358.8,330.0 V312.0 Q358.8,308.0 362.8,308.0 H371.7 Q375.7,308.0 375.7,312.0 V330.0 Z"><title>348 stars: 6 clickfix page</title></path>
+<path class="s1" d="M379.7,330.0 V282.6 Q379.7,278.6 383.7,278.6 H392.6 Q396.6,278.6 396.6,282.6 V330.0 Z"><title>349 stars: 14 clickfix page</title></path>
+<path class="s1" d="M400.6,330.0 V267.9 Q400.6,263.9 404.6,263.9 H413.5 Q417.5,263.9 417.5,267.9 V330.0 Z"><title>350 stars: 18 clickfix page</title></path>
+<text class="t3" x="409.1" y="347" font-size="11" text-anchor="middle">350</text>
+<rect class="s1" x="421.5" y="291.6" width="16.9" height="38.4"><title>351 stars: 11 clickfix page</title></rect>
+<path class="s3" d="M421.5,289.6 V287.8 Q421.5,285.9 423.4,285.9 H436.6 Q438.5,285.9 438.5,287.8 V289.6 Z"><title>351 stars: 1 decoy code</title></path>
+<rect class="s1" x="442.5" y="265.9" width="16.9" height="64.1"><title>352 stars: 18 clickfix page</title></rect>
+<path class="s0" d="M442.5,263.9 V262.1 Q442.5,260.2 444.3,260.2 H457.5 Q459.4,260.2 459.4,262.1 V263.9 Z"><title>352 stars: 1 real project</title></path>
+<path class="s1" d="M463.4,330.0 V289.9 Q463.4,285.9 467.4,285.9 H476.3 Q480.3,285.9 480.3,289.9 V330.0 Z"><title>353 stars: 12 clickfix page</title></path>
+<rect class="s1" x="484.3" y="265.9" width="16.9" height="64.1"><title>354 stars: 18 clickfix page</title></rect>
+<path class="s0" d="M484.3,263.9 V262.1 Q484.3,260.2 486.1,260.2 H499.4 Q501.2,260.2 501.2,262.1 V263.9 Z"><title>354 stars: 1 real project</title></path>
+<path class="s1" d="M505.2,330.0 V300.9 Q505.2,296.9 509.2,296.9 H518.1 Q522.1,296.9 522.1,300.9 V330.0 Z"><title>355 stars: 9 clickfix page</title></path>
+<text class="t3" x="513.7" y="347" font-size="11" text-anchor="middle">355</text>
+<path class="s1" d="M526.1,330.0 V286.3 Q526.1,282.3 530.1,282.3 H539.0 Q543.0,282.3 543.0,286.3 V330.0 Z"><title>356 stars: 13 clickfix page</title></path>
+<path class="s1" d="M547.0,330.0 V286.3 Q547.0,282.3 551.0,282.3 H559.9 Q563.9,282.3 563.9,286.3 V330.0 Z"><title>357 stars: 13 clickfix page</title></path>
+<path class="s1" d="M567.9,330.0 V282.6 Q567.9,278.6 571.9,278.6 H580.9 Q584.9,278.6 584.9,282.6 V330.0 Z"><title>358 stars: 14 clickfix page</title></path>
+<path class="s1" d="M588.9,330.0 V304.6 Q588.9,300.6 592.9,300.6 H601.8 Q605.8,300.6 605.8,304.6 V330.0 Z"><title>359 stars: 8 clickfix page</title></path>
+<path class="s1" d="M609.8,330.0 V312.0 Q609.8,308.0 613.8,308.0 H622.7 Q626.7,308.0 626.7,312.0 V330.0 Z"><title>360 stars: 6 clickfix page</title></path>
+<text class="t3" x="618.2" y="347" font-size="11" text-anchor="middle">360</text>
+<path class="s1" d="M630.7,330.0 V323.0 Q630.7,319.0 634.7,319.0 H643.6 Q647.6,319.0 647.6,323.0 V330.0 Z"><title>361 stars: 3 clickfix page</title></path>
+<path class="s1" d="M651.6,330.0 V312.0 Q651.6,308.0 655.6,308.0 H664.5 Q668.5,308.0 668.5,312.0 V330.0 Z"><title>362 stars: 6 clickfix page</title></path>
+<path class="s1" d="M672.5,330.0 V315.6 Q672.5,311.6 676.5,311.6 H685.4 Q689.4,311.6 689.4,315.6 V330.0 Z"><title>363 stars: 5 clickfix page</title></path>
+<path class="s1" d="M693.4,330.0 V326.3 Q693.4,322.7 697.1,322.7 H706.7 Q710.3,322.7 710.3,326.3 V330.0 Z"><title>364 stars: 2 clickfix page</title></path>
+<path class="s1" d="M714.3,330.0 V315.6 Q714.3,311.6 718.3,311.6 H727.3 Q731.3,311.6 731.3,315.6 V330.0 Z"><title>365 stars: 5 clickfix page</title></path>
+<text class="t3" x="722.8" y="347" font-size="11" text-anchor="middle">365</text>
+<path class="s1" d="M735.3,330.0 V326.3 Q735.3,322.7 738.9,322.7 H748.5 Q752.2,322.7 752.2,326.3 V330.0 Z"><title>366 stars: 2 clickfix page</title></path>
+<path class="s1" d="M756.2,330.0 V328.2 Q756.2,326.3 758.0,326.3 H771.2 Q773.1,326.3 773.1,328.2 V330.0 Z"><title>367 stars: 1 clickfix page</title></path>
+<path class="s1" d="M777.1,330.0 V328.2 Q777.1,326.3 778.9,326.3 H792.2 Q794.0,326.3 794.0,328.2 V330.0 Z"><title>368 stars: 1 clickfix page</title></path>
+<text class="t3" x="430" y="366" font-size="11" text-anchor="middle">stars on 23 Nov 2026</text>
+<line class="axis" x1="116.3" x2="150.3" y1="135.0" y2="135.0"/>
+<text class="t1" x="156.3" y="139.0" font-size="12.5">52 lures with exactly 336 stars</text>
+<text class="t2" x="24" y="398" font-size="12.5">Not shown: 24 repos with 369+ stars (19 real projects, 4 unclear, and one more lure with 2,746 stars).</text>
+</svg>

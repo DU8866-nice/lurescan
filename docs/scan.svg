@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 857 408" width="857" height="408" role="img" aria-label="lurescan output: a lure repo flagged LURE with evidence, and astral-sh/uv with no known lure signs">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px;white-space:pre}.n{fill:#c9d1d9}.ev{fill:#8b949e}.cmd{fill:#e6edf3}.x,.lure{fill:#ff7b72}.w{fill:#e3b341}.ok{fill:#3fb950}.adv{fill:#c9d1d9}</style>
+<rect width="857" height="408" rx="10" fill="#0d1117"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="18" y="54" class="cmd" xml:space="preserve">$ python3 lurescan.py darthvader097br-ctrl/acronis-standalone-bundle astral-sh/uv</text>
+<text x="18" y="73" xml:space="preserve"><tspan class="cmd" font-weight="700">darthvader097br-ctrl/acronis-standalone-bundle</tspan>  <tspan class="lure" font-weight="700">LURE</tspan>  <tspan class="ev">(score 18)</tspan></text>
+<text x="18" y="92" xml:space="preserve">  <tspan class="x">✗ cloaked-page (+5):</tspan><tspan class="n"> A page hides its real content in an encrypted blob</tspan></text>
+<text x="18" y="111" class="ev" xml:space="preserve">      index.html: decodes a hidden blob (pieces hidden in page elements + XOR) and injects the result a…</text>
+<text x="18" y="130" xml:space="preserve">  <tspan class="x">✗ keepalive-commits (+5):</tspan><tspan class="n"> A scheduled job makes fake commits so the repo looks active</tspan></text>
+<text x="18" y="149" class="ev" xml:space="preserve">      .github/workflows/nujYNoLOYFh.yml: hourly job, random commit messages, writes to .github/hTOdRWdB…</text>
+<text x="18" y="168" class="ev" xml:space="preserve">      history: 7 recent bot commits with made-up messages, e.g. &#x27;schedule improve #2851&#x27;; &#x27;remove fix #…</text>
+<text x="18" y="187" xml:space="preserve">  <tspan class="w">! random-names (+2):</tspan><tspan class="n"> Files under .github/ have random-letter names</tspan></text>
+<text x="18" y="206" xml:space="preserve">  <tspan class="w">! setup-button (+2):</tspan><tspan class="n"> The README&#x27;s main call to action is an image button to a page outside the repo</tspan></text>
+<text x="18" y="225" class="ev" xml:space="preserve">      README: image button &#x27;button.png&#x27; links to hxxps://darthvader097br-ctrl.github.io/acronis-standal…</text>
+<text x="18" y="244" xml:space="preserve">  <tspan class="w">! no-code-product (+2):</tspan><tspan class="n"> The README sells a desktop program, but the repo has no source code</tspan></text>
+<text x="18" y="263" class="ev" xml:space="preserve">      README mentions &#x27;Windows 10&#x27; and &#x27;Install&#x27;; no source files in the repo</text>
+<text x="18" y="282" xml:space="preserve">  <tspan class="w">! piracy-pitch (+2):</tspan><tspan class="n"> It promises cracked, unlocked or cheat software</tspan></text>
+<text x="18" y="301" class="ev" xml:space="preserve">      README/description: matrix. ### How does the pre-activated state work? The build includes an embe…</text>
+<text x="18" y="320" class="adv" xml:space="preserve">  → Do not run, download or paste anything from this repo or its pages.</text>
+<text x="18" y="358" xml:space="preserve"><tspan class="cmd" font-weight="700">astral-sh/uv</tspan>  <tspan class="ok" font-weight="700">no known lure signs</tspan>  <tspan class="ev">(score 0)</tspan></text>
+<text x="18" y="377" class="adv" xml:space="preserve">  → Nothing lurescan knows about matched. That lowers the risk; it does not prove the repo is safe.</text>
+</svg>

