@@ -18,7 +18,7 @@ If you, or your coding agent, pick a repo because it has stars, this is what you
 python3 lurescan.py owner/repo
 ```
 
-One file, Python 3.9+, standard library only, needs `git`. It clones the repo bare and shallow
+One file, Python 3.10+, standard library only, needs `git`. It clones the repo bare and shallow
 into a temporary folder, reads the file names, the README, HTML pages, workflow files and the
 last 60 commits, then deletes the clone. It never checks out a working tree and never runs
 anything from the repository.

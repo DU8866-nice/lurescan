@@ -17,7 +17,7 @@ star 最多的那个诱饵就是 Blender MCP，2746 个 star，瞄准的是找 A
 python3 lurescan.py owner/repo
 ```
 
-单文件，Python 3.9+，只用标准库，需要 `git`。它把仓库以 bare + 浅克隆的方式拉到临时目录，读取文件名、
+单文件，Python 3.10+，只用标准库，需要 `git`。它把仓库以 bare + 浅克隆的方式拉到临时目录，读取文件名、
 README、HTML 页面、workflow 文件和最近 60 个提交，然后删掉克隆。它不会检出工作区，也不会运行仓库里的
 任何东西。
 
